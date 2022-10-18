@@ -10,6 +10,3 @@ This is a repository includes the implementations of Generative Adversarial Netw
 
 
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
