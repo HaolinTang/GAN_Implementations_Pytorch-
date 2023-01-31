@@ -5,7 +5,7 @@ This is a repository includes the implementations of Generative Adversarial Netw
   
   * Deep Convolutional GAN **(DCGAN)** for hand-written digits images generation (See [DCGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/DCGAN.ipynb)).
   
-  * Wasserstein GAN with Gradient Penalty **(WGAN)** for hand-written digits images generation (See WGAN.ipynb). 
+  * Wasserstein GAN with Gradient Penalty **(WGAN-GP)** for hand-written digits images generation (See WGAN.ipynb). 
 
 
 
