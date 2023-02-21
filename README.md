@@ -7,7 +7,7 @@ This is a repository includes the implementations of Generative Adversarial Netw
   
   * Wasserstein GAN with Gradient Penalty **(WGAN_GP)** for hand-written digits images generation (See [WGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/WGAN_GP.ipynb)). 
   
-  * Spectrally Normalized GAN **(SN_GAN)** for hand-written digits images generation (See [WGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/SN_GAN.ipynb)). 
+  * Spectrally Normalized GAN **(SN_GAN)** for hand-written digits images generation (See [SN_GAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/SN_GAN.ipynb)). 
 
 
 
