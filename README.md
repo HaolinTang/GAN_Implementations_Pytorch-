@@ -10,6 +10,8 @@ This is a repository includes the implementations of Generative Adversarial Netw
   * Spectrally Normalized GAN **(SN_GAN)** for hand-written digits images generation (See [SN_GAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/SN_GAN.ipynb)). 
 
   * Conditional GAN **(cGAN)** for hand-written digits images generation (See [Conditional_GAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/Conditional_GAN.ipynb)). 
+  
+  * Style GAN **(Micro StyleGAN)** (See [Mirco_StyleGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/Micro_StyleGAN.ipynb)). 
 
 
 
