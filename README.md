@@ -12,6 +12,8 @@ This is a repository includes the implementations of Generative Adversarial Netw
   * Conditional GAN **(cGAN)** for hand-written digits images generation (See [Conditional_GAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/Conditional_GAN.ipynb)). 
   
   * Style GAN **(Micro StyleGAN)** (See [Mirco_StyleGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/Micro_StyleGAN.ipynb)). 
+  
+  * U-Net **(Micro StyleGAN)** (See [U-net.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/U_Net.ipynb)).
 
 
 
