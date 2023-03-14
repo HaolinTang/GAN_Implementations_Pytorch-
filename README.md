@@ -13,7 +13,7 @@ This is a repository includes the implementations of Generative Adversarial Netw
   
   * Style GAN **(Micro StyleGAN)** (See [Mirco_StyleGAN.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/Micro_StyleGAN.ipynb)). 
   
-  * U-Net: the basic structure of pix2pix and cycleGAN (See [U-net.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/U_Net.ipynb)).
+  * U-Net: the basic structure of Pix2Pix and cycleGAN (See [U-net.ipynb](https://github.com/HaolinTang/GAN_Implementations_Pytorch-/blob/main/U_Net.ipynb)).
 
 
 
